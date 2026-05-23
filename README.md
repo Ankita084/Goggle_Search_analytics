@@ -2,7 +2,9 @@ Google Search Analysis is a data analytics and machine learning project that ana
 
 install:
 pip install numpy pandas matplotlib seaborn scikit-learn pytrends streamlit
+
 run python analysis.py
+
 streamlit run app.py for stremlite 
 
 Advantages
